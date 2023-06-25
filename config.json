@@ -1,0 +1,6 @@
+{
+  "default_prefix": "prefix",
+  "owners": ["852437409693433877"],
+  "timeout": 300000,
+  "disable_fetching": false
+}
