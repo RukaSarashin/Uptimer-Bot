@@ -1,6 +1,6 @@
 {
-  "default_prefix": "!u",
+  "default_prefix": "!",
   "owners": ["1038108560946638848"],
-  "timeout": 600,
+  "timeout": 300000,
   "disable_fetching": false
 }
